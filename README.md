@@ -1,3 +1,6 @@
+# Home OS
+This is a web operating system for my house 
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
